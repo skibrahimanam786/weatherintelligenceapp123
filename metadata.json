@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence Dashboard",
+  "description": "Comprehensive weather intelligence dashboard featuring city geocoding, current weather metrics, 7-day forecast, interactive hourly & weekly trend charts, AI weather insights, and smart activity recommendations powered by Open-Meteo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
